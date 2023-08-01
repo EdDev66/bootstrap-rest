@@ -1,0 +1,1 @@
+This is a Flask project that implements RESTful routing to perform CRUD operations on a Bootstrap-powered blog. The application allows users to create, read, update, and delete blog posts.
